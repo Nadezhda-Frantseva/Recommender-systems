@@ -1,1 +1,3 @@
-# Recommender-systems
+A Recommender System is an intelligent algorithm that suggests relevant items to users based on their preferences, behaviors, or similarities with other users. These systems are widely used in various domains such as e-commerce, streaming services, and online learning platforms to enhance user experience and engagement.
+
+The project aims to make book recommendations based on user ratings. Using collaborative filtering algorithms compared to the LightFM hybrid matrix factorization model, the project will help readers find the most relevant books for them, ensuring a more enjoyable and enriching leisure time.
